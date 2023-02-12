@@ -1,6 +1,21 @@
----
+#---
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
+#layout: home
+#---
+
+
 ---
+layout: home
+title: Home
+landing-title: 'Hey there,'
+description: null
+# image: assets/images/surfing SJDS.jpg
+image: /assets/images/M.jpeg
+author: null
+show_tile: false
+---
+
+Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+

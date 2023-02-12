@@ -19,19 +19,17 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Your awesome title
-email: your-email@example.com
+email: ijlalansari1122>@users.noreply.github.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ijlalansari1122.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 # github_username: jekyll
-domain: oba2311.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: https://oba2311.github.io  # the base hostname and protocol for your site, e.g. http://example.com
-baseurl: /oba2311/2023site      # place folder name if the site is served in a subfolder
-
+baseurl: "/2023site" # the subpath of your site, e.g. /blog
+url: https://ijlalansari1122.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+baseurl: /ijlalansari1122/2023site      # place folder name if the site is served in a subfolder
 
 # Build settings
 # theme: minima

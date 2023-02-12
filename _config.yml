@@ -35,7 +35,10 @@ baseurl: "/2023site" # the subpath of your site, e.g. /blog
 # theme: minima
 remote_theme: daviddarnes/garth
 #markdown: kramdown
+markdown: kramdown
 
+sass:
+  style: compressed
 
 plugins:
   - jekyll-feed

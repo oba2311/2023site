@@ -28,8 +28,8 @@ url: "https://ijlalansari1122.github.io" # the base hostname & protocol for your
 # twitter_username: jekyllrb
 # github_username: jekyll
 baseurl: "/2023site" # the subpath of your site, e.g. /blog
-url: https://ijlalansari1122.github.io  # the base hostname and protocol for your site, e.g. http://example.com
-baseurl: /ijlalansari1122/2023site      # place folder name if the site is served in a subfolder
+#url: https://ijlalansari1122.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+#baseurl: /ijlalansari1122/2023site      # place folder name if the site is served in a subfolder
 
 # Build settings
 # theme: minima

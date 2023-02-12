@@ -33,7 +33,7 @@ baseurl: "/2023site" # the subpath of your site, e.g. /blog
 
 # Build settings
 # theme: minima
-theme: garth-jekyll-theme
+theme: minima
 plugins:
   - jekyll-feed
 # Exclude from processing.

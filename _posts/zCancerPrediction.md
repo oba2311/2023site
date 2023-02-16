@@ -62,7 +62,7 @@ Since this is a case-study classic dataset I didn’t need to transform any vari
 	<div class="content">
 		<div class="inner">
 			<header class="major">
-				<h3>probit Model:</h3>
+				<h3>Probit Model:</h3>
 			</header>
 			<p>We see that as observed by other models, Cell Size of over ~3.75 is correlated with over 50% risk of malignant tumor. Lastly, let’s add confidence intervals and jitter to the classes, and use the LOWESS so we can see the mass of the data against the predictor:​</p>
 		</div>

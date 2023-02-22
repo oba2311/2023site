@@ -29,8 +29,8 @@ nav-menu: true
 				<i>"We had the pleasure of incorporating Omer's great tutorial as part of Axon's deep-learning course - Future Learning. All the students have been taught the Perceptron and Multi-Layer-Perceptron lesson and followed the attached Jupyter notebooks.  This lesson, in fact, had kick-off the final part of our course - the hands-on Deep Learning, because this lesson holds the basic building block of deep learning. We were happy to host this lesson and because of the positive feedback we will keep and embed this lesson for the future classes"</i>
 				</p>
 
-    							<ul class="actions">
-    				<li><a href="./assets/images/CS156___Final_Project.pdf" class="button">Lecture Slides</a></li>
+ </div>   							<ul class="actions">
+    				<li ><a href="https://ijlalansari1122.github.io/Test_site//assets/images/CS156___Final_Project.pdf"  style="color: white !important;">Lecture Slides</a></li>
     			</ul>
     		</div>
     	</div>
